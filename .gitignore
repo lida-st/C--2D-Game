@@ -1,0 +1,52 @@
+# 🔹 Build folders
+Debug/
+Release/
+x64/
+x86/
+build/
+bin/
+out/
+
+# 🔹 Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 🔹 Compiled files
+*.exe
+*.out
+*.app
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+
+# 🔹 CMake (αν χρησιμοποιηθεί)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# 🔹 Logs
+*.log
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 SDL / external libraries (μην ανεβάζεις binaries)
+*.dll
+
+# 🔹 Temporary files
+*.tmp
+*.temp
+
+# 🔹 Visual Studio Code (αν χρησιμοποιήσεις)
+.vscode/
